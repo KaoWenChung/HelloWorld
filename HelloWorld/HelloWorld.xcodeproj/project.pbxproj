@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		217F7AC42428B4A70020538B /* tableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217F7AC32428B4A70020538B /* tableViewController.swift */; };
 		21B3889F242111FE005D2A3F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B3889E242111FE005D2A3F /* AppDelegate.swift */; };
 		21B388A1242111FE005D2A3F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B388A0242111FE005D2A3F /* SceneDelegate.swift */; };
 		21B388A3242111FE005D2A3F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B388A2242111FE005D2A3F /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		217F7AC32428B4A70020538B /* tableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableViewController.swift; sourceTree = "<group>"; };
 		21B3889B242111FE005D2A3F /* HelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21B3889E242111FE005D2A3F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		21B388A0242111FE005D2A3F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				21B388A724211200005D2A3F /* Assets.xcassets */,
 				21B388A924211200005D2A3F /* LaunchScreen.storyboard */,
 				21B388AC24211200005D2A3F /* Info.plist */,
+				217F7AC32428B4A70020538B /* tableViewController.swift */,
 			);
 			path = HelloWorld;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				21B388A3242111FE005D2A3F /* ViewController.swift in Sources */,
 				21B3889F242111FE005D2A3F /* AppDelegate.swift in Sources */,
 				21B388A1242111FE005D2A3F /* SceneDelegate.swift in Sources */,
+				217F7AC42428B4A70020538B /* tableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
